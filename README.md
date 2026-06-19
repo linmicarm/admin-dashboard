@@ -15,11 +15,7 @@ mobile, and accessible — rather than a pixel-match of the reference.
 
 **Desktop**
 
-<!-- Drop a desktop screenshot here -->
-
-**Tablet & mobile**
-
-<!-- Drop tablet + phone screenshots here -->
+<img width="1911" height="940" alt="image" src="https://github.com/user-attachments/assets/78756889-3061-47cc-8e4e-bb65dc044b85" />
 
 ---
 
